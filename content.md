@@ -3,7 +3,7 @@
 Version: 1.0 
 -->
 # Exercise 1: Creating a Network and Resource Container
-## INTRODUCTION MESSAGE
+## INTRODUCTION MESSAGE 
 You want to create a virtual network that you can use for your new virtual machine. As part of creating the virtual network, you will also create a resource group.  
   
 The main tasks for this exercise are as follows:  
